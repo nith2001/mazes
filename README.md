@@ -1,1 +1,1 @@
-# mazes
+In this project, my partner Alex Ramos and myself implement Kruskal's and Djikstra's algorithm. We do this by using Minimum Heaps and our own implementation of Disjoint Sets. By doing this, we are able to create a randomized maze that is represented by a graph using Kruskal's, and then solve the maze using Djikstra's algorithm.
